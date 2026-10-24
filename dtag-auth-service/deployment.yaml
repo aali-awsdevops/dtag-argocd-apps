@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
         - name: auth-service
-          image: mohammadaszadali/auth-service:latest
+          image: mohammadaszadali/auth-service:51df558
           imagePullPolicy: Always
 
           ports:
